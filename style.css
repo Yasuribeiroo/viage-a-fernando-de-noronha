@@ -1,9 +1,9 @@
 h1 {
   color: white;
-  background-color: green;
-  border: 7px solid darkgreen;
+  background-color: #008000;
+  border: 5px solid darkgreen;
   border-radius: 15px;
-  heigth: 70%;
+  heigth: 60%;
 }
 img{
   border: 1px solid black;
@@ -12,6 +12,6 @@ img{
 h3 {
   border: 5px solid darkgoldenrod;
   border-radius: 10px;
-  background-color: orange;
+  background-color: #ffa600;
   heigth: 25px;
 }
